@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @selimberkyilmaz
-- 🌱 I’m currently learning React
+- 🌱 I'm a Jr. Front End Developer.
+- 🌱 I’m currently learning Js, React
