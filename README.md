@@ -1,2 +1,2 @@
-- 🌱 I'm a Jr. Front End Developer.
-- 🌱 I’m currently learning Js, React
+- 🌱 I'm a Music Video Director , Part time Jr. Frontend dev.
+- 🌱 I’m currently learning Adobe After effects, Davinci Resolve, Color Grading
